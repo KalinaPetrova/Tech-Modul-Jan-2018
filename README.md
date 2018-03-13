@@ -3,3 +3,6 @@ Proba!
 This will make a conflict!
 Making changes to README.md
 Repo for exercises.
+Again making changis.
+Now with GitBash.
+For del.
